@@ -1,0 +1,10 @@
+.slider_img{
+    filter: brightness(60%);
+}
+
+.banner_title{
+    padding-bottom: 60px;
+}
+.banner_title h1{
+    font-weight: bold;
+}
